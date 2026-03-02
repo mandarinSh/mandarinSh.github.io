@@ -384,4 +384,4 @@ body {
   margin: 0;
 }
 
-`}),C4=new sk({defaultOptions:{queries:{retry:1,staleTime:6e4},mutations:{retry:1}}});_d.createRoot(document.getElementById("root")).render(C.jsx(Ot.StrictMode,{children:C.jsx(VE,{basename:"/mandarinSh.github.io",children:C.jsxs(ak,{client:C4,children:[C.jsx(x4,{}),w4]})})}));
+`}),C4=new sk({defaultOptions:{queries:{retry:1,staleTime:6e4},mutations:{retry:1}}});_d.createRoot(document.getElementById("root")).render(C.jsx(Ot.StrictMode,{children:C.jsx(VE,{children:C.jsxs(ak,{client:C4,children:[C.jsx(x4,{}),w4]})})}));
