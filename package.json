@@ -1,9 +1,9 @@
 {
-  "name": "test-tables",
+  "name": "mandarinSh.github.io",
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://mandarinSh.github.io/test-tables/",
+  "homepage": "https://mandarinSh.github.io/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",

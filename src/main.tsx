@@ -15,7 +15,7 @@ const queryClient = new QueryClient({
 
 ReactDOM.createRoot(document.getElementById("root")!).render(
   <React.StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename="/mandarinSh.github.io">
       <QueryClientProvider client={queryClient}>
         <App />
         {globalStyles}
