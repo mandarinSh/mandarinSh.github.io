@@ -16,5 +16,5 @@ export default defineConfig({
       strict: false
     }
   },
-  base: '/test-tables/',
+  base: '/',
 });
