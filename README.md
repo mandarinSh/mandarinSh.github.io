@@ -1,3 +1,6 @@
+# Take a look at the demo!
+here https://mandarinsh.github.io/
+
 # Dummy table
 
 This repo contains a page login and page with table of products from Dummy https://dummyjson.com/docs/products.
